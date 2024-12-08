@@ -3,6 +3,7 @@ Title:”Enhanced Student Grading System”
 Objectives:
 
 For students, the program can help track their academic performance, identify strengths and weaknesses so they will know what areas are still needed for improvement . For instructors, it can simplify the process of managing student records, track the students academic performance and  generate student  reports easily.
+
 Features:
 
 This program is  a user-friendly student record management system. It allows adding, searching, saving, loading, and deleting student records. The system uses JSON-based format to store student information, including grades. It also includes error handling  and a CSV file I/O for persistent storage. Student records are displayed in a clear tabular format for easy readability.

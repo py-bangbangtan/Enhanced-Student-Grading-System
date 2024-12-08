@@ -11,17 +11,21 @@ This program  utilizes loops (while and for) for iterative tasks and conditional
 User Guide:
 
 1.Run the script by executing  the Python script to start the system.
+
 2.From the menu choose from the following options:
+
 Add Student: Enter the student details  as prompted that includes the student ID, name of the student, subject and its corresponding grades.
 Search Student: Enter the student ID to find a specific record.
 Save Records: Saves the current records to a CSV file.
 Display All Records: Views all the stored student records.
 Delete Student: Enter the student ID to remove a  specific student record.
 Exit: Quit  the program.
+
 3. From prompts given provide the required information when prompted.
 4.View the results. The system will display messages indicating successful operations or errors.
 
 Limitations:
-The program's  current search functionality is limited to searching by ID only and though some basic error handling is in place there is still a possibility that the program might  crash. 
+The program's  current search functionality is limited to searching by ID only and though some basic error handling is in place there is still a possibility that the program might  crash.
+
 Future Improvements:
 ​​Enhancing the user interface to make it more visually appealing and interactive to the users.

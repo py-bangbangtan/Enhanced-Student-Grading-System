@@ -6,6 +6,7 @@ Features:
 This program is  a user-friendly student record management system. It allows adding, searching, saving, loading, and deleting student records. The system uses JSON-based format to store student information, including grades. It also includes error handling  and a CSV file I/O for persistent storage. Student records are displayed in a clear tabular format for easy readability.
 
 Components:
+
 This program  utilizes loops (while and for) for iterative tasks and conditional statements (if and else) for decision-making. For file handling, it uses the csv module to read and write CSV files. The program utilizes error handling by  using try-except blocks as well as functions to enhance readability and reusability. In addition, the data structures like lists and dictionaries are used to store and organize student information. Finally, string manipulation techniques are applied to format the output in a clear and concise manner.
 
 User Guide:
@@ -15,10 +16,15 @@ User Guide:
 2.From the menu choose from the following options:
 
 Add Student: Enter the student details  as prompted that includes the student ID, name of the student, subject and its corresponding grades.
+
 Search Student: Enter the student ID to find a specific record.
+
 Save Records: Saves the current records to a CSV file.
+
 Display All Records: Views all the stored student records.
+
 Delete Student: Enter the student ID to remove a  specific student record.
+
 Exit: Quit  the program.
 
 3. From prompts given provide the required information when prompted.
